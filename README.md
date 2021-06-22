@@ -2,7 +2,7 @@
 
 This is a To-Do list, where you can add and delete your tasks. This project is developed in HTML, CSS and JavaScript.
 
-<a href="https://ibb.co/3dgLT9K"><img src="https://i.ibb.co/C8RTw3L/Captura.jpg" alt="Captura" border="0"></a>
+<a href="https://ibb.co/XXzGHZB"><img src="https://i.ibb.co/WncRCW9/Captura.jpg" alt="Captura" border="0"></a>
 
 ## Launching 🚀
 
